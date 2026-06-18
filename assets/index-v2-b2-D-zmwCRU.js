@@ -1,0 +1,1 @@
+import{G as e,T as t}from"./v2-C9oVrVvN.js";import n from"./admin-courses-C7iAi80b.js";var r=e(t(),1);function i(e){return(0,r.jsx)(n,{...e,variant:`b`,initialPresetSlug:`spring-2026-launches`})}export{i as default};
